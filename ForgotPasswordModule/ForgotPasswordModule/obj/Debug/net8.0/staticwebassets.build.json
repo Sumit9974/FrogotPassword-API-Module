@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "jXfi/7jF1Brmo0NWRzwAOgo+IY9in1AwQWKZ9UuSrt8=",
+  "Source": "ForgotPasswordModule",
+  "BasePath": "_content/ForgotPasswordModule",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
